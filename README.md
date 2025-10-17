@@ -32,9 +32,9 @@ This white paper introduces a new approach to creative authenticity, conflict re
 ### 📄 White Paper & Assets
 | File | Description |
 |------|--------------|
-| [📘 Skreeb-WhitePaper-v1.0.0.pdf](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.1/Skreeb-WhitePaper-v1.0.0.pdf) | Full white paper |
-| [🗺️ Skreeb-System-Map-v1.0.png](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.1/Skreeb-System-Map.png) | System overview |
-| [📜 checksums.txt](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.1/checksums.txt) | SHA256 checksum file |
+| [📘 Skreeb-WhitePaper-v1.0.0.pdf](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.0/Skreeb-WhitePaper-v1.0.0.pdf) | Full white paper |
+| [🗺️ Skreeb-System-Map-v1.0.png](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.0/Skreeb-System-Map.png) | System overview |
+| [📜 checksums.txt](https://github.com/speykye/skreeb-whitepaper/releases/download/v1.0.0/checksums.txt) | SHA256 checksum file |
 
 Online reading (GitHub Pages):  
 👉 [https://speykye.github.io/skreeb-whitepaper/](https://speykye.github.io/skreeb-whitepaper/)
