@@ -44,7 +44,7 @@ Online reading (GitHub Pages):
 ---
 
 ### 📬 Contact
-`hello@skreeb.io`  
+`contact@skreeb.io`  
 For collaboration or feedback, please open a [Discussion](https://github.com/speykye/skreeb-whitepaper/discussions).
 
 ---
