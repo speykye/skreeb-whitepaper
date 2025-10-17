@@ -1,4 +1,12 @@
-# Skreeb — Governance & AI Blueprint White Paper (v1.0.0)
+# Skreeb — White Paper
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17379494.svg)](https://doi.org/10.5281/zenodo.17379494)
+
+This repository hosts the MVP white paper for **Skreeb: The Architecture of Rational Empathy** — an ethical framework for AI-assisted mediation and collective governance.
+
+- 📄 Latest PDF: see [Releases](../../releases)
+- 🧭 System Map & ERF Diagrams: in release assets
+- 💬 Feedback & collaboration: use [Discussions](../../discussions)
 
 **Author:** Zhang Xingyu  
 **Contributors:** C. Chang  
